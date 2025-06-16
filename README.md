@@ -6,4 +6,4 @@
 
 🔭 Şu anda Ulus Metal'de sürdürülebilirlik uzmanı olarak çalışıyorum.
 
-📫 Bana ulaşın: cemardagunaydin / cemarda.gunaydin@ulusmetal.com.tr
+📫 Bana ulaşın: cemardagunaydin@gmail.com / cemarda.gunaydin@ulusmetal.com.tr

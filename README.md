@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @cemardagunaydin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Merhaba, ben Arda!
 
-<!---
-cemardagunaydin/cemardagunaydin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Sürdürülebilirlik alanında çalışan bir uzmandan daha fazlası.
+
+💻 Python, Excel, SQL ve karbon ayak izi hesaplama araçlarında deneyimliyim.
+
+🔭 Şu anda Ulus Metal'de sürdürülebilirlik uzmanı olarak çalışıyorum.
+
+📫 Bana ulaşın: cemardagunaydin / cemarda.gunaydin@ulusmetal.com.tr
